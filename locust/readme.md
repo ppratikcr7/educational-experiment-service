@@ -13,7 +13,7 @@ Install locust:
 
 ## running the web interface
 
-    locust -f upgrade-mathia.py
+    locust -f upgrade_mathia.py
 
 Open <http://localhost:8089>
 
